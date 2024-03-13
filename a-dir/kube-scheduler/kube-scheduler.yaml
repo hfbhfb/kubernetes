@@ -16,7 +16,7 @@ spec:
     - --bind-address=127.0.0.1
     - --kubeconfig=/etc/kubernetes/scheduler.conf
     - --leader-elect=true
-    image: mykube-scheduler:v0.1
+    image: mykube-scheduler:v1.23
     imagePullPolicy: IfNotPresent
     livenessProbe:
       failureThreshold: 8

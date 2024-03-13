@@ -40,7 +40,7 @@ spec:
     - --service-cluster-ip-range=10.247.0.0/16
     - --tls-cert-file=/etc/kubernetes/pki/apiserver.crt
     - --tls-private-key-file=/etc/kubernetes/pki/apiserver.key
-    image: mykube-apiserver:v0.1
+    image: mykube-apiserver:v1.23
     imagePullPolicy: IfNotPresent
     livenessProbe:
       failureThreshold: 8

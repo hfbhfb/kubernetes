@@ -28,7 +28,7 @@ spec:
     - --service-account-private-key-file=/etc/kubernetes/pki/sa.key
     - --service-cluster-ip-range=10.247.0.0/16
     - --use-service-account-credentials=true
-    image: mykube-controller-manager:v0.1
+    image: mykube-controller-manager:v1.23
     imagePullPolicy: IfNotPresent
     env:
     - name: TZ

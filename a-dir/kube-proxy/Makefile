@@ -2,7 +2,7 @@
 
 
 
-IMG := mykube-proxy:v0.1
+IMG := mykube-proxy:v1.23
 
 
 docker:

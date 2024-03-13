@@ -1,9 +1,3 @@
-## marka-dd-code-k8s-id637ovus
-
-
-
-IMG := mykubelet:v0.1
-
 
 cptodevice:
 	ssh l 'systemctl stop kubelet;'

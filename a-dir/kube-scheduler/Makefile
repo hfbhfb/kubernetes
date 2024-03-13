@@ -2,7 +2,7 @@
 
 
 
-IMG := mykube-scheduler:v0.1
+IMG := mykube-scheduler:v1.23
 
 
 docker:

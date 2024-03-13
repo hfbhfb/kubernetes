@@ -2,7 +2,7 @@
 
 
 
-IMG := mykube-apiserver:v0.1
+IMG := mykube-apiserver:v1.23
 
 
 docker:

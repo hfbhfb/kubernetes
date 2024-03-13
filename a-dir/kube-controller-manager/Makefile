@@ -2,7 +2,7 @@
 
 
 
-IMG := mykube-controller-manager:v0.1
+IMG := mykube-controller-manager:v1.23
 
 
 docker:
