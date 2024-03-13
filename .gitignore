@@ -136,6 +136,7 @@ vendordiff.patch
 a-dir/kube-apiserver/kube-apiserver
 a-dir/kube-controller-manager/kube-controller-manager
 a-dir/kube-scheduler/kube-scheduler
+a-dir/kube-proxy/kube-proxy
 cmd/kubectl/kubectl
 
 
